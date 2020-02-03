@@ -1,0 +1,13 @@
+html {
+	background-color: black;
+}
+
+body {
+	background-color: Grey;
+	margin: auto;
+	max-width: 600px;
+	height: 1000px;
+	padding-top: 75px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
